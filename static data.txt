@@ -1,0 +1,27 @@
+hypothesis = analysis somethimg on basis of past performace 
+
+
+2 typen of  hypo thesis
+null hypothesis
+alternate hypo 
+
+what makes hypo good 
+
+1) question
+2) background research
+3)making sure it's testable ( user experance / eco/ emvermont) testing on users /client / their need  eg lava 
+cosmatic from rahul dada eg cosmatics in turkky for clinet so a) their edu /  thir dracing ect                       ploit graph 
+
+
+
+signnificant levl 
+middle data of graph is confidace levl 
+
+
+type I and type II error 
+training data 
+confusing matrix 
+
+step in hypo
+
+                                                        data >state hypo>selecy
